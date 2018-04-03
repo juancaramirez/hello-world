@@ -1,4 +1,4 @@
 # hello-world
 testing repositories.
 
-making additiohal changes
+making additional changes
